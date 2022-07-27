@@ -1,7 +1,7 @@
 ### Hello, I'm Adnan Christian.🤝
 
-- 🔭 I’m currently working with Mainframes
-- 🌱 I’m currently studiyng Computer Engineering
+- 🦕💻 I’m currently working with Mainframe
+- 🧑🏾‍💻 I’m currently studiyng Computer Engineering
 - 😄 Pronouns: he/him
 
 ## Meu Status no Github
